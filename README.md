@@ -49,3 +49,8 @@ Outside of programming, I train to stay disciplined, I read to learn and grow, a
     </picture>
   </a>
 </p>
+
+### Badges
+
+<a href="http://www.github.com/GeorgiStoyanov05"><img src="https://github-readme-stats.vercel.app/api?username=GeorgiStoyanov05&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=444e59&bg_color=181824&hide_border=true&show_icons=true" alt="GeorgiStoyanov05's GitHub stats" /></a>
+<a href="http://www.github.com/GeorgiStoyanov05"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgiStoyanov05&stroke=ffffff&background=181824&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
