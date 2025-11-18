@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Georgi Stoyanov from Bulgaria<br><br>- 🔭 I’m studying Software Engineering in Sofia University "St. Kliment Ohridski"<br>- 📚 I'm currently learning C++ and Python<br>- ⚡ In my free time I practise LeetCode🥲 (https://leetcode.com/u/GStoyanov05/)</p>
+<p align="left">I'm Georgi Stoyanov from Bulgaria<br><br>- 🔭 I’m studying Software Engineering in Sofia University "St. Kliment Ohridski"<br>- 📚 I'm currently learning Golang and Rust<br>- ⚡ In my free time I practise LeetCode🥲 (https://leetcode.com/u/GStoyanov05/)</p>
 
 ###
 
